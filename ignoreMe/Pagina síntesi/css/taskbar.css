@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+    background-color: #23272A;
+    font-family: 'Popins', sans-serif;
+}
+
+.logo{
+    color: rgb(0,0,0);
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 20px;
+}
+.nav-links{
+    display: flex;
+    
+}
+
+.nav-links a{
+    color: rgb(0,0,0);
+}
