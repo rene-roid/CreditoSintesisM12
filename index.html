@@ -61,7 +61,7 @@
 						
 						<!--Hardware-->
 							<article id="Hardware">
-								<h2 class="major">M1: Hardware (198 horas)<div class="counter">0</div></h2>
+								<h2 class="major"><a href= "#subhardware">M1: Hardware (198 horas)</a></h2>
 								<h3>Módulo profesional 1: montaje y mantenimiento de equipos</h3>
 								<!--<span class="image main"><img src="images/pic01.jpg" alt="" /></span>-->
 								<!--<p><a href="#subhardware">ver video (ignorame)</a></p>-->
@@ -695,7 +695,22 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 
 				<!-- Footer -->
 					<footer id="footer">
-						<p class="copyright">Diseño de HTML5UP!</p>
+						<p class="copyright" onclick="music()">Diseño de HTML5UP!</p>
+						<p class="copyright"onclick="music()">Clica aqui para una musica fachera 😎👌</p>
+						<audio autoplay loop id="songg">
+							<source src="Il Vento D_oro Eurobeat Remix.mp3" type="audio/mp3">
+						</audio>
+						<script>
+							let song = document.getElementById("songg")
+							
+							function music() {
+								if (song.paused){
+									song.play()
+								} else {
+									song.pause();
+								}
+							}
+						</script>
 					</footer>
 
 			</div>
