@@ -1,0 +1,71 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hello, I am Fernando and today I am going to show you what did i learn in the module 8
+
+2
+00:00:07,000 --> 00:00:11,000
+and I'm going to show you how to make a webpage in HTML and CSS.
+
+3
+00:00:11,000 --> 00:00:16,000
+This webpage will be able to play a single song.
+
+4
+00:00:16,000 --> 00:00:22,000
+First of all, I need to add the webpage title and I need to link a stylesheet.
+
+5
+00:00:22,000 --> 00:00:28,000
+Now I will add the basic things that the HTML website will have.
+
+6
+00:00:28,000 --> 00:00:36,000
+By the way, the webpage will have a background, a song, a pause icon and a play icon.
+
+7
+00:00:36,000 --> 00:00:42,000
+So now, I will add all the elements that it will have.
+
+8
+00:00:43,000 --> 00:00:52,000
+I have added a title for the website, a text for the website and also I have added the music icon.
+
+9
+00:00:52,000 --> 00:00:56,000
+And this is what we have for now.
+
+10
+00:00:56,000 --> 00:01:03,000
+Now that I have all the content that the webiste will have I am going to make the style of the website.
+
+11
+00:01:03,000 --> 00:01:13,000
+I will make a style for the container, the navigation bar, the content of webpage and the two icons that will add.
+
+12
+00:01:13,000 --> 00:01:21,000
+Ok, I made so ti had a  background image, i made so the navbar is on the top left
+
+13
+00:01:21,000 --> 00:01:30,000
+then also I changed it so that the "Music website" name is in color white in the center of the webpage.
+
+14
+00:01:31,000 --> 00:01:33,000
+Now for make it to work we need to add some JavaScript.
+
+15
+00:01:34,000 --> 00:01:43,000
+Now I will add a script where, it makes that if the song isn't playing it will play when we click the button
+
+16
+00:01:43,000 --> 00:01:50,000
+and if the song is already playing and we click the button it will pause the song instead of playing it again.
+
+17
+00:01:50,000 --> 00:01:57,000
+Now lets see if the website works propertly, this is the webpage and thats it.
+
+18
+00:01:57,000 --> 00:02:06,000
+Get rick rolled :)
